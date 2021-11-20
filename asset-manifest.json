@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dineManager-admin/static/css/main.2b6dd38b.chunk.css",
+    "main.js": "/dineManager-admin/static/js/main.3cdf6655.chunk.js",
+    "main.js.map": "/dineManager-admin/static/js/main.3cdf6655.chunk.js.map",
+    "runtime-main.js": "/dineManager-admin/static/js/runtime-main.c8716052.js",
+    "runtime-main.js.map": "/dineManager-admin/static/js/runtime-main.c8716052.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/dineManager-admin/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.c9840cda.chunk.js": "/dineManager-admin/static/js/2.c9840cda.chunk.js",
+    "static/js/2.c9840cda.chunk.js.map": "/dineManager-admin/static/js/2.c9840cda.chunk.js.map",
+    "index.html": "/dineManager-admin/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/dineManager-admin/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.2b6dd38b.chunk.css.map": "/dineManager-admin/static/css/main.2b6dd38b.chunk.css.map",
+    "static/js/2.c9840cda.chunk.js.LICENSE.txt": "/dineManager-admin/static/js/2.c9840cda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8716052.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.c9840cda.chunk.js",
+    "static/css/main.2b6dd38b.chunk.css",
+    "static/js/main.3cdf6655.chunk.js"
+  ]
+}
